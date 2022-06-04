@@ -77,7 +77,7 @@
 		<codearte-props2yml.version>0.5</codearte-props2yml.version>
 		<json-unit.version>2.11.1</json-unit.version>
 		<findbugs.version>3.0.2</findbugs.version>
-		<joda-time.version>2.10.6</joda-time.version>
+		<joda-time.version>2.10.14</joda-time.version>
 		<aws-java-sdk-ecr.version>1.11.731</aws-java-sdk-ecr.version>
 		<testcontainers.version>1.15.2</testcontainers.version>
 		<!-- only used for dataflow managed stream applications, e.g., tasklauncher -->
