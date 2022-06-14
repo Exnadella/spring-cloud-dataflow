@@ -9,7 +9,7 @@
 	<artifactId>spring-cloud-dataflow-composed-task-runner</artifactId>
 	<packaging>jar</packaging>
 	<properties>
-		<plexus.utils.version>3.3.0</plexus.utils.version>
+		<plexus.utils.version>3.4.2</plexus.utils.version>
 	</properties>
 	<dependencies>
 		<dependency>
