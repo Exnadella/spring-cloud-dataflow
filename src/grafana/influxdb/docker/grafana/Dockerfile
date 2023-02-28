@@ -1,4 +1,4 @@
-FROM grafana/grafana:8.0.2
+FROM grafana/grafana:8.5.21-ubuntu
 ADD ./provisioning /etc/grafana/provisioning
 ADD ./config.ini /etc/grafana/config.ini
 ADD ./dashboards /var/lib/grafana/dashboards
