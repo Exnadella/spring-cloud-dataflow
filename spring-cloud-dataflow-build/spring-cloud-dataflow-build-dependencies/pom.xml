@@ -36,7 +36,7 @@
 		<postgresql.version>42.7.2</postgresql.version>
 		<prometheus-rsocket.version>1.5.2</prometheus-rsocket.version>
 		<java-cfenv.version>2.3.0</java-cfenv.version>
-		<spring-cloud-services-starter-config-client.version>3.5.4</spring-cloud-services-starter-config-client.version>
+		<spring-cloud-services-starter-config-client.version>4.1.2</spring-cloud-services-starter-config-client.version>
 		<kubernetes-fabric8-client.version>5.12.4</kubernetes-fabric8-client.version>
 		<junit.version>4.13.1</junit.version>
 		<junit-jupiter.version>5.9.2</junit-jupiter.version>
