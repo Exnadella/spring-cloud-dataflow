@@ -25,7 +25,7 @@
 		<spring-cloud.version>2021.0.9</spring-cloud.version>
 		<spring-security.version>5.7.12</spring-security.version>
 		<spring-shell.version>2.1.13</spring-shell.version>
-		<commons-text.version>1.10.0</commons-text.version>
+		<commons-text.version>1.14.0</commons-text.version>
 		<testcontainers.version>1.19.8</testcontainers.version>
 		<!-- Specific version overrides to deal w/ CVEs -->
 		<tomcat.version>9.0.90</tomcat.version>
